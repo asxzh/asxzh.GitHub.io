@@ -13,8 +13,8 @@ owner:
   bio: "兴趣使然，更新频率视@sekkirin无聊程度而定" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/iria_50.jpg # 浏览器地址栏小图标，可自定义更改
-favicon: img/iria_50.jpg # 浏览器地址栏小图标，可自定义更改
+gavatar: img/iria_50.ico # 浏览器地址栏小图标，可自定义更改
+favicon: img/iria_50.ico # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
