@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "about"
+title: "ABOUT"
 description: " " 
 description: " " 
 header-img: "img/green.jpg"
