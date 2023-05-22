@@ -3,7 +3,7 @@ layout: page
 title: "ABOUT"
 description: " " 
 description: " " 
-header-img: "img/green.jpg"
+header-img: "img/2(1).jpg"
 ---
 
 <font size="5">如果你看到了这个页面，说明你可能是从kf，lk，bgm之类的网站来到这个内容匮乏的blog的<font><br>
