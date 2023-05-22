@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "sekkirin" # 你的名字
-      header-img: "https://imglink.win/image/2023/04/29/zg8rI.jpeg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/twitter.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
